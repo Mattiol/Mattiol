@@ -36,14 +36,6 @@ I'm a developer passionate about modern technologies, with experience in:
 
 ---
 
-## 🔍 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mattiol&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mattiol&theme=dark" width="48%" />
-</p>
----
-
 ## 🚀 Featured Projects
 
 ### ⭐ **CoralMC**
