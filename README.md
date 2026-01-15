@@ -43,7 +43,6 @@ I'm a developer passionate about modern technologies, with experience in:
 > I'm currently working on the first italian minecraft server (per players)
 
 📌 **Technologies:** Java · MySQL
-🔗 [https://github.com/CoralMC-It](CoralMC)
 
 ---
 
